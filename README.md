@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Google Ads Transparency API
 
 See the ads any advertiser is running on Google, by domain or advertiser ID, with formats and first/last shown dates as JSON.
